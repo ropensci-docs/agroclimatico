@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "b91a9762a2f3145406407bcf432a14478651e15e",
+    "author": "Paola Corrales <paobcorrales@gmail.com>",
+    "time": "2025-02-04 02:35:08",
+    "files": 3,
+    "merge": false,
+    "message": "Mejora información sobre dependencias a la hora de contribuir. Cambia a pak en el readme.\nTranks to @plecharpent for the comments!\nClose issue #56\n"
+  },
+  "repo": "https://github.com/ropensci/agroclimatico",
+  "pkg": "agroclimatico"
+}
