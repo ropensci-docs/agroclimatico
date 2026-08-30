@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "2bc820cee201e27977a8a3ffa24cf7fedefe6bbd",
+    "author": "Pao Corrales <paobcorrales@gmail.com>",
+    "time": "2025-05-05T06:00:56Z",
+    "files": 2,
+    "merge": false,
+    "message": "Update to pak #58\n"
+  },
+  "repo": "https://github.com/ropensci/agroclimatico",
+  "pkg": "agroclimatico",
+  "time": "2026-08-30T07:28:31Z"
+}
